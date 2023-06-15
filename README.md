@@ -1,4 +1,5 @@
 # UAS-MBD
+Ahmad Donny Damanik 2101397008
 
 1. Make migration untuk create table
 ![mbd 1](https://github.com/donnydamanik/UAS-MBD/assets/89127709/b415f554-ec5d-4677-8d22-396e13b1318c)
