@@ -11,7 +11,7 @@
 
 4. Make seeder
 ![mbd 4](https://github.com/donnydamanik/UAS-MBD/assets/89127709/419bdc57-8293-4a2c-8dbc-53b6bd3e4035)
-
+ 
 5. Edit seeder
 ![mbd 5](https://github.com/donnydamanik/UAS-MBD/assets/89127709/b63c0365-0c0f-46a4-b2e6-ca6718a74658)
 
