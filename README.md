@@ -23,29 +23,37 @@
 ![mbd seed customers](https://github.com/donnydamanik/UAS-MBD/assets/89127709/b7d70f8c-3e0d-490e-9a57-0d835bcc5334)
 ![seed customers](https://github.com/donnydamanik/UAS-MBD/assets/89127709/c50c4c0e-0ffa-4c61-8318-fde1a8e79ee9)
 
+
 - Product
 ![mbd seed product](https://github.com/donnydamanik/UAS-MBD/assets/89127709/2cac28b0-860a-4362-a0ef-a89a0812eed1)
 ![seed product](https://github.com/donnydamanik/UAS-MBD/assets/89127709/1de94894-fcb8-43e4-9300-ac7f858674a8)
+
 
 - categories
 ![mbd seed categories](https://github.com/donnydamanik/UAS-MBD/assets/89127709/3a7f8ee4-f002-4905-b4eb-2038d5e34680)
 ![seed categories](https://github.com/donnydamanik/UAS-MBD/assets/89127709/4a3fe777-4e90-4525-a654-cef531db9814)
 
+
 - Customers
 ![mbd seed customers](https://github.com/donnydamanik/UAS-MBD/assets/89127709/021eb723-9656-4c38-b879-14b3697358a1)
 ![seed customers](https://github.com/donnydamanik/UAS-MBD/assets/89127709/d99d576f-ac29-4296-941a-f43ac25acbc1)
+
 
 - Employees
 ![mbd seed employees](https://github.com/donnydamanik/UAS-MBD/assets/89127709/196b4a9d-9669-4998-baab-aadfdc146160)
 ![seed employee](https://github.com/donnydamanik/UAS-MBD/assets/89127709/db4a38aa-ce82-4101-bd0e-ca10b0e9fbae)
 
+
 - Orders
 ![mbd seed orders](https://github.com/donnydamanik/UAS-MBD/assets/89127709/67e31f7c-cd05-4d36-a8e4-bd81bcae4459)
 ![seed order](https://github.com/donnydamanik/UAS-MBD/assets/89127709/b6c93a1a-797d-4df6-8e75-fc261753f130)
 
+
 - Order_details
 ![mbd seed order detail](https://github.com/donnydamanik/UAS-MBD/assets/89127709/e95c3cf2-fee3-45f7-83da-917444036a13)
 ![seed order detail](https://github.com/donnydamanik/UAS-MBD/assets/89127709/b58cc26f-d0ed-4cb7-935d-6fecf8e59351)
+
+
 
 - Shippers
 ![mbd seed shipper](https://github.com/donnydamanik/UAS-MBD/assets/89127709/ef64ee3f-bc45-4305-9bb9-955958cc26b5)
